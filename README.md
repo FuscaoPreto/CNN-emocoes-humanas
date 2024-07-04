@@ -13,6 +13,7 @@ O projeto é estruturado em um único arquivo Jupyter Notebook, cnn-fer2013-igor
 3. Abra o arquivo cnn-fer2013.ipynb em um ambiente Jupyter Notebook.
 4. Mude o caminho dos dados de teste e treino para seu novo caminho.
 5. Execute todas as células do notebook para treinar e testar o modelo.
+6. Execute camera.py para ver a detecção em tempo real.
 
 ## Detalhes do Modelo
 
